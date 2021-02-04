@@ -1,6 +1,6 @@
 # ShimmerApp
 
-Состав проекта: 
+Состав проекта: </n>
 -активити 
 -ViewPager2 и TabLayout
 -3 Fragment и FragmentStateAdapter
