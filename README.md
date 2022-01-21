@@ -1,7 +1,7 @@
 # ShimmerApp
 
-Состав проекта:  
--активити  
+Project composition:  
+-activity  
 -ViewPager2 и TabLayout  
 -3 Fragment и FragmentStateAdapter  
 -com.facebook.shimmer.ShimmerFrameLayout  
